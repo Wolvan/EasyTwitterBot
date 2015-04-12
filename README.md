@@ -1,9 +1,11 @@
 # EasyTwitterBot
 A simple Bot to Autoreply or Autopost on Twitter
+
 [Project on Google Apps Scripts] (https://script.google.com/d/1SE3zR1mHnDVEaQVkssBGGtWCwcNW-3JGih8OWy9Ixuf94a-09rzkB7NZ/edit?usp=sharing)
 
 # Dependencies
 [Google Script Apps] (http://www.google.com/script/start/)
+
 [Google OAuth 1 Library] (https://github.com/googlesamples/apps-script-oauth1)
 
 # How to use
